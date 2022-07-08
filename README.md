@@ -1,3 +1,5 @@
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/redws5/qasw.git)
+
 ### 关注甬哥项目https://gitlab.com/rwkgyg/
 
 ### 请下载以上代码，使用Github进行代码托管并连接heroku
